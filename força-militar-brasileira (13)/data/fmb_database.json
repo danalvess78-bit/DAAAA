@@ -1,0 +1,2223 @@
+{
+  "logs": [
+    {
+      "id": "log_gzkhvonjz",
+      "action": "CONCLUSAO_TREINO",
+      "userId": "u_1",
+      "details": "Concluiu o treinamento militar \"Curso de Formação de Cabos\". Integrantes: heneffer",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T15:25:20.306Z"
+    },
+    {
+      "id": "log_cgohvi6p5",
+      "action": "NOVO_TREINO",
+      "userId": "u_1",
+      "details": "Criou treinamento agendado: Curso de Formação de Cabos.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T15:24:52.566Z"
+    },
+    {
+      "id": "log_s83834oa0",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T15:15:12.081Z"
+    },
+    {
+      "id": "log_sfr9cao34",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T15:15:09.842Z"
+    },
+    {
+      "id": "log_6zewh97vi",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T15:15:06.272Z"
+    },
+    {
+      "id": "log_mxsrmxsc4",
+      "action": "LOGIN",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB efetuou login no painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T14:52:21.201Z"
+    },
+    {
+      "id": "log_830ipzl97",
+      "action": "LOGOUT",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB se desconectou do painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T14:51:23.493Z"
+    },
+    {
+      "id": "log_6ciostes2",
+      "action": "LOGOUT",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB se desconectou do painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T14:51:22.496Z"
+    },
+    {
+      "id": "log_4feh9845j",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:45:46.191Z"
+    },
+    {
+      "id": "log_v81xomevj",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:45:43.930Z"
+    },
+    {
+      "id": "log_iu4neck0d",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:45:40.330Z"
+    },
+    {
+      "id": "log_le5ukg8di",
+      "action": "CRIAR_SUBCARGO",
+      "userId": "u_1",
+      "details": "Criou o subcargo militar 'esao' [esao] no sistema.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:33:55.884Z"
+    },
+    {
+      "id": "log_kg09ff4qg",
+      "action": "CRIAR_SUBCARGO",
+      "userId": "u_1",
+      "details": "Criou o subcargo militar 'aman' [aman] no sistema.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:33:40.027Z"
+    },
+    {
+      "id": "log_ypyjskc5v",
+      "action": "ALTERAR_CARGO_DIRETO",
+      "userId": "u_1",
+      "details": "Alterou o cargo de @lDan diretamente de Soldado para CABO sem despacho.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:29:30.485Z"
+    },
+    {
+      "id": "log_jeys2gewm",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:29:05.940Z"
+    },
+    {
+      "id": "log_1bimi3mr4",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:29:02.659Z"
+    },
+    {
+      "id": "log_cpsthp3q0",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:29:00.127Z"
+    },
+    {
+      "id": "log_erv572n9q",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:28:59.397Z"
+    },
+    {
+      "id": "log_qo585tv25",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:28:54.268Z"
+    },
+    {
+      "id": "log_2iqfnco4x",
+      "action": "CONCLUSAO_TREINO",
+      "userId": "u_1",
+      "details": "Concluiu o treinamento militar \"Curso de Formação de Cabos\". Integrantes: lDan",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:28:50.487Z"
+    },
+    {
+      "id": "log_vfj075e79",
+      "action": "NOVO_TREINO",
+      "userId": "u_1",
+      "details": "Criou treinamento agendado: Curso de Formação de Cabos.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:28:45.926Z"
+    },
+    {
+      "id": "log_jjy8mxm5k",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:21:55.409Z"
+    },
+    {
+      "id": "log_4m18302oe",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:21:53.475Z"
+    },
+    {
+      "id": "log_wwds549y2",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:21:51.379Z"
+    },
+    {
+      "id": "log_5deola2wi",
+      "action": "CONCLUSAO_TREINO",
+      "userId": "u_1",
+      "details": "Concluiu o treinamento militar \"CFO\". Integrantes: heneffer",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:18:29.349Z"
+    },
+    {
+      "id": "log_pfky87rph",
+      "action": "NOVO_TREINO",
+      "userId": "u_1",
+      "details": "Criou treinamento agendado: CFO.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T13:17:54.818Z"
+    },
+    {
+      "id": "log_ntl4cbcb5",
+      "action": "LOGOUT",
+      "userId": "u_miwgy7cwp",
+      "details": "Militar lDan se desconectou do painel.",
+      "userNick": "lDan",
+      "timestamp": "2026-07-03T12:58:33.346Z"
+    },
+    {
+      "id": "log_uu0uptdbj",
+      "action": "EXCLUSÃO",
+      "userId": "u_1",
+      "details": "Militar boleto_ foi totalmente apagado do sistema.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-03T00:22:46.552Z"
+    },
+    {
+      "id": "log_jm76un3fi",
+      "action": "SINCRONIZAR_HABBO",
+      "userId": null,
+      "details": "Sincronizou perfil e farda de @boleto_ no Habbo BR. Missão atual: \"serakieusei?\".",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-07-03T00:22:20.371Z"
+    },
+    {
+      "id": "log_o3j3sv6u2",
+      "action": "SINCRONIZAR_HABBO",
+      "userId": null,
+      "details": "Sincronizou perfil e farda de @boleto_ no Habbo BR. Missão atual: \"serakieusei?\".",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-07-02T20:09:23.242Z"
+    },
+    {
+      "id": "log_48uae51u2",
+      "action": "EXCLUSÃO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Militar boleto_ foi totalmente apagado do sistema.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-07-02T20:04:51.754Z"
+    },
+    {
+      "id": "log_79fqenz8e",
+      "action": "LOGIN",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB efetuou login no painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-02T20:02:49.075Z"
+    },
+    {
+      "id": "log_au8cxp57d",
+      "action": "SINCRONIZAR_HABBO",
+      "userId": null,
+      "details": "Sincronizou perfil e farda de @boleto_ no Habbo BR. Missão atual: \"serakieusei?\".",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-07-02T19:47:02.771Z"
+    },
+    {
+      "id": "log_c8xnqe9j0",
+      "action": "LOGIN",
+      "userId": "u_miwgy7cwp",
+      "details": "Militar lDan efetuou login no painel.",
+      "userNick": "lDan",
+      "timestamp": "2026-07-02T19:27:32.606Z"
+    },
+    {
+      "id": "log_fz6imrysw",
+      "action": "LOGOUT",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB se desconectou do painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-02T19:27:26.056Z"
+    },
+    {
+      "id": "log_4o7wqzn0z",
+      "action": "LOGIN",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB efetuou login no painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-02T18:19:45.760Z"
+    },
+    {
+      "id": "log_277o7ijgj",
+      "action": "LOGOUT",
+      "userId": "u_miwgy7cwp",
+      "details": "Militar lDan se desconectou do painel.",
+      "userNick": "lDan",
+      "timestamp": "2026-07-02T18:19:34.500Z"
+    },
+    {
+      "id": "log_e6ripmq9u",
+      "action": "LOGIN",
+      "userId": "u_miwgy7cwp",
+      "details": "Militar lDan efetuou login no painel.",
+      "userNick": "lDan",
+      "timestamp": "2026-07-02T18:19:02.761Z"
+    },
+    {
+      "id": "log_fx4xrqwk2",
+      "action": "LOGOUT",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB se desconectou do painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-02T18:18:55.917Z"
+    },
+    {
+      "id": "log_1omxb91fp",
+      "action": "ATRIBUIR_SUBCARGO",
+      "userId": "u_1",
+      "details": "Atribuiu o subcargo [INSTRUTOR] ao militar @lDan.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-02T18:18:53.939Z"
+    },
+    {
+      "id": "log_gg5s35v10",
+      "action": "CRIAR_SUBCARGO",
+      "userId": "u_1",
+      "details": "Criou o subcargo militar 'instrutor' [instrutor] no sistema.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-02T18:18:44.763Z"
+    },
+    {
+      "id": "log_41t10vkgt",
+      "action": "LOGIN",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB efetuou login no painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-02T18:18:19.032Z"
+    },
+    {
+      "id": "log_w4yn8ytvh",
+      "action": "LOGOUT",
+      "userId": "u_miwgy7cwp",
+      "details": "Militar lDan se desconectou do painel.",
+      "userNick": "lDan",
+      "timestamp": "2026-07-02T18:18:11.021Z"
+    },
+    {
+      "id": "log_i9tiqj78y",
+      "action": "LOGIN",
+      "userId": "u_miwgy7cwp",
+      "details": "Militar lDan efetuou login no painel.",
+      "userNick": "lDan",
+      "timestamp": "2026-07-02T18:18:01.492Z"
+    },
+    {
+      "id": "log_21l33av0g",
+      "action": "LOGOUT",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB se desconectou do painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-02T18:17:56.312Z"
+    },
+    {
+      "id": "log_e9lbo3pg7",
+      "action": "ALTERAR_CARGO_DIRETO",
+      "userId": "u_1",
+      "details": "Alterou o cargo de @lDan diretamente de Administrador Supremo para Soldado sem despacho.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-02T18:17:52.646Z"
+    },
+    {
+      "id": "log_t0sli4s40",
+      "action": "LOGIN",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB efetuou login no painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-02T18:17:34.375Z"
+    },
+    {
+      "id": "log_0mi01660v",
+      "action": "LOGOUT",
+      "userId": "u_miwgy7cwp",
+      "details": "Militar lDan se desconectou do painel.",
+      "userNick": "lDan",
+      "timestamp": "2026-07-02T18:17:24.585Z"
+    },
+    {
+      "id": "log_3s917adhc",
+      "action": "LOGIN",
+      "userId": "u_miwgy7cwp",
+      "details": "Militar lDan efetuou login no painel.",
+      "userNick": "lDan",
+      "timestamp": "2026-07-02T17:30:09.134Z"
+    },
+    {
+      "id": "log_wc3mhegfc",
+      "action": "LOGOUT",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB se desconectou do painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-02T17:30:00.728Z"
+    },
+    {
+      "id": "log_stf7gzz84",
+      "action": "RESTAURAR_SENHA",
+      "userId": "u_1",
+      "details": "Senha do militar lDan alterada por Comandante_FMB.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-02T17:29:58.799Z"
+    },
+    {
+      "id": "log_7298tcwiq",
+      "action": "LOGIN",
+      "userId": "u_p2jgbe1zr",
+      "details": "Militar heneffer efetuou login no painel.",
+      "userNick": "heneffer",
+      "timestamp": "2026-07-02T00:40:47.153Z"
+    },
+    {
+      "id": "log_qr88azwff",
+      "action": "SINCRONIZAR_HABBO",
+      "userId": null,
+      "details": "Sincronizou perfil e farda de @GustavoMestre10 no Habbo BR. Missão atual: \"[FMB] Subcomandante [SeA] [L.R] ®\".",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-07-01T17:51:35.106Z"
+    },
+    {
+      "id": "log_un494wies",
+      "action": "LOGIN",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB efetuou login no painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T17:26:40.046Z"
+    },
+    {
+      "id": "log_61mzhgfdx",
+      "action": "LOGOUT",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB se desconectou do painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T17:26:37.057Z"
+    },
+    {
+      "id": "log_6pfp53bi6",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T17:24:26.658Z"
+    },
+    {
+      "id": "log_knnfmxyak",
+      "action": "REMOVER_SUBCARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Removeu o subcargo [JORNALISTA] do militar @SEALs,.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-07-01T17:23:06.350Z"
+    },
+    {
+      "id": "log_j3e5a7rzk",
+      "action": "ATRIBUIR_SUBCARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Atribuiu o subcargo [JORNALISTA] ao militar @SEALs,.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-07-01T17:20:20.427Z"
+    },
+    {
+      "id": "log_rint5ts9q",
+      "action": "CRIAR_SUBCARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Criou o subcargo militar 'Jornalista ' [jornalista] no sistema.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-07-01T17:20:16.875Z"
+    },
+    {
+      "id": "log_tlh9ju8gw",
+      "action": "LOGIN",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB efetuou login no painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T17:17:32.882Z"
+    },
+    {
+      "id": "log_sljqkw5jy",
+      "action": "LOGOUT",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB se desconectou do painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T14:24:18.472Z"
+    },
+    {
+      "id": "log_lq44jkpnt",
+      "action": "LOGIN",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB efetuou login no painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T14:19:19.618Z"
+    },
+    {
+      "id": "log_wmu8bo3nh",
+      "action": "LOGOUT",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB se desconectou do painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T14:15:55.488Z"
+    },
+    {
+      "id": "log_yt1xtgcs5",
+      "action": "POST_NOTICIA",
+      "userId": "u_1",
+      "details": "Publicou uma nova notícia militar oficial: \"INAUGURAÇÃO FMB\"",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T14:15:53.325Z"
+    },
+    {
+      "id": "log_zp0y5y4q3",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T14:14:52.675Z"
+    },
+    {
+      "id": "log_3osoleo1d",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T14:14:32.406Z"
+    },
+    {
+      "id": "log_vl7qgraqs",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T14:14:30.882Z"
+    },
+    {
+      "id": "log_p4te4khp1",
+      "action": "LOGIN",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB efetuou login no painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T14:13:21.705Z"
+    },
+    {
+      "id": "log_pgnr1760r",
+      "action": "LOGOUT",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB se desconectou do painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T14:12:45.916Z"
+    },
+    {
+      "id": "log_fesyikfqt",
+      "action": "LOGIN",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB efetuou login no painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T14:07:32.085Z"
+    },
+    {
+      "id": "log_0itzmpnd4",
+      "action": "LOGOUT",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB se desconectou do painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T13:56:59.650Z"
+    },
+    {
+      "id": "log_t4yzli7pw",
+      "action": "POST_NOTICIA",
+      "userId": "u_1",
+      "details": "Publicou uma nova notícia militar oficial: \"GRANDE DESFILE \"",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T13:56:51.880Z"
+    },
+    {
+      "id": "log_qffqvftz7",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T13:32:22.396Z"
+    },
+    {
+      "id": "log_fqarct7t6",
+      "action": "APAGAR_DOCUMENTO",
+      "userId": "u_1",
+      "details": "Removeu o documento: \"Manual de Instruções e Conduta da FMB\" do banco militar.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T13:20:57.968Z"
+    },
+    {
+      "id": "log_krfd108qp",
+      "action": "LOGIN",
+      "userId": "u_egilvp82o",
+      "details": "Militar Ruscello efetuou login no painel.",
+      "userNick": "Ruscello",
+      "timestamp": "2026-07-01T12:54:07.394Z"
+    },
+    {
+      "id": "log_azus43eeb",
+      "action": "ALTERAR_CARGO_DIRETO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou o cargo de @Ruscello diretamente de Soldado para MARECHAL sem despacho.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-07-01T12:41:40.375Z"
+    },
+    {
+      "id": "log_b49js67zp",
+      "action": "APROVAR_ALISTAMENTO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Aprovou pedido de alistamento de Ruscello como Soldado.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-07-01T12:41:32.740Z"
+    },
+    {
+      "id": "log_db0jemx3r",
+      "action": "PEDIDO_ALISTAMENTO",
+      "userId": null,
+      "details": "Novo pedido de alistamento enviado por Ruscello.",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-07-01T12:40:41.131Z"
+    },
+    {
+      "id": "log_tpunnm0wi",
+      "action": "LOGIN",
+      "userId": "u_eh9ivrvsd",
+      "details": "Militar SEALs, efetuou login no painel.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-07-01T12:09:08.190Z"
+    },
+    {
+      "id": "log_pw3cl12v3",
+      "action": "LOGOUT",
+      "userId": "u_eh9ivrvsd",
+      "details": "Militar SEALs, se desconectou do painel.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-07-01T10:58:52.833Z"
+    },
+    {
+      "id": "log_a9lvmpm5l",
+      "action": "SINCRONIZAR_HABBO",
+      "userId": null,
+      "details": "Sincronizou perfil e farda de @heneffer no Habbo BR. Missão atual: \"Legados constroem impérios.\".",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-07-01T00:52:20.031Z"
+    },
+    {
+      "id": "log_v2c4cgo72",
+      "action": "LOGIN",
+      "userId": "u_ye880u032",
+      "details": "Militar Dpx_prado efetuou login no painel.",
+      "userNick": "Dpx_prado",
+      "timestamp": "2026-06-30T17:15:50.452Z"
+    },
+    {
+      "id": "log_sr9hj3zh9",
+      "action": "APAGAR_DOCUMENTO",
+      "userId": "u_1",
+      "details": "Removeu o documento: \"Manual de Instruções e Conduta da FMB\" do banco militar.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-30T16:28:27.277Z"
+    },
+    {
+      "id": "log_sah9vkkve",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-30T16:27:19.733Z"
+    },
+    {
+      "id": "log_aypo7i4s2",
+      "action": "CANCELAR_TREINO",
+      "userId": "u_1",
+      "details": "Cancelou o treinamento agendado: CFO.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-30T16:27:17.159Z"
+    },
+    {
+      "id": "log_61hxfzu4n",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-30T16:27:14.158Z"
+    },
+    {
+      "id": "log_jogz717gj",
+      "action": "APAGAR_DOCUMENTO",
+      "userId": "u_1",
+      "details": "Removeu o documento: \"Script Oficial de Auxílio de Recrutas (CFS)\" do banco militar.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-30T16:04:50.403Z"
+    },
+    {
+      "id": "log_du75vkp1x",
+      "action": "SINCRONIZAR_HABBO",
+      "userId": null,
+      "details": "Sincronizou perfil e farda de @SEALs, no Habbo BR. Missão atual: \"   POLÍCIA FMB ® 2026\".",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-30T15:50:36.885Z"
+    },
+    {
+      "id": "log_zkglf7vhv",
+      "action": "LOGIN",
+      "userId": "u_879r792o4",
+      "details": "Militar GustavoMestre10 efetuou login no painel.",
+      "userNick": "GustavoMestre10",
+      "timestamp": "2026-06-30T15:41:23.316Z"
+    },
+    {
+      "id": "log_pqyv3ele8",
+      "action": "ALTERAR_CARGO_DIRETO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou o cargo de @Dpx_prado diretamente de Soldado para GENERAL sem despacho.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T15:39:41.801Z"
+    },
+    {
+      "id": "log_w81ph8o0e",
+      "action": "ALTERAR_CARGO_DIRETO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou o cargo de @GustavoMestre10 diretamente de Soldado para SUBCOMANDANTE sem despacho.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T15:39:34.578Z"
+    },
+    {
+      "id": "log_9geg00hmy",
+      "action": "APROVAR_ALISTAMENTO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Aprovou pedido de alistamento de Dpx_prado como Soldado.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T15:38:58.319Z"
+    },
+    {
+      "id": "log_l4ipgfg7d",
+      "action": "APROVAR_ALISTAMENTO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Aprovou pedido de alistamento de GustavoMestre10 como Soldado.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T15:38:57.009Z"
+    },
+    {
+      "id": "log_gk1c3fglg",
+      "action": "PEDIDO_ALISTAMENTO",
+      "userId": null,
+      "details": "Novo pedido de alistamento enviado por GustavoMestre10.",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-30T15:37:39.876Z"
+    },
+    {
+      "id": "log_g04w4kj4v",
+      "action": "PEDIDO_ALISTAMENTO",
+      "userId": null,
+      "details": "Novo pedido de alistamento enviado por Dpx_prado.",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-30T15:07:23.878Z"
+    },
+    {
+      "id": "log_nagyqu6rb",
+      "action": "NOVO_TREINO",
+      "userId": "u_1",
+      "details": "Criou treinamento agendado: CFO.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-30T13:49:10.768Z"
+    },
+    {
+      "id": "log_1fy4p6e4m",
+      "action": "CONCLUSAO_TREINO",
+      "userId": "u_1",
+      "details": "Concluiu o treinamento militar \"CFO\". Integrantes: lDan",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-30T13:44:14.368Z"
+    },
+    {
+      "id": "log_adgoj62ev",
+      "action": "CONCLUSAO_TREINO",
+      "userId": "u_1",
+      "details": "Concluiu o treinamento militar \"CFO\". Integrantes: lDan",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-30T13:44:13.398Z"
+    },
+    {
+      "id": "log_ka939i494",
+      "action": "NOVO_TREINO",
+      "userId": "u_1",
+      "details": "Criou treinamento agendado: CFO.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-30T13:42:15.619Z"
+    },
+    {
+      "id": "log_0pec0u43q",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Aspirante a Oficial  (ASPIRANTE_A_OFICIAL).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T12:46:53.476Z"
+    },
+    {
+      "id": "log_nmk0wecyg",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Sargento (SARGENTO).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T12:46:41.947Z"
+    },
+    {
+      "id": "log_tb9wsm46k",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Soldado (Soldado).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T12:46:34.484Z"
+    },
+    {
+      "id": "log_ey2oydati",
+      "action": "SINCRONIZAR_HABBO",
+      "userId": null,
+      "details": "Sincronizou perfil e farda de @heneffer no Habbo BR. Missão atual: \"Legados constroem impérios.\".",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-30T12:45:50.116Z"
+    },
+    {
+      "id": "log_i4hpj8ezj",
+      "action": "SINCRONIZAR_HABBO",
+      "userId": null,
+      "details": "Sincronizou perfil e farda de @heneffer no Habbo BR. Missão atual: \"Legados constroem impérios.\".",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-30T12:43:42.647Z"
+    },
+    {
+      "id": "log_ba6j2wyyf",
+      "action": "ALTERAR_CARGO_DIRETO",
+      "userId": "u_1",
+      "details": "Alterou o cargo de @lDan diretamente de COMANDANTE_GERAL para Administrador Supremo sem despacho.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-30T12:26:33.976Z"
+    },
+    {
+      "id": "log_m1d4rc2lq",
+      "action": "ALTERAR_CARGO_DIRETO",
+      "userId": "u_1",
+      "details": "Alterou o cargo de @heneffer diretamente de Comandante-Geral para COMANDANTE_GERAL sem despacho.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-30T12:25:12.738Z"
+    },
+    {
+      "id": "log_jninlpp4a",
+      "action": "LOGOUT",
+      "userId": "u_p2jgbe1zr",
+      "details": "Militar heneffer se desconectou do painel.",
+      "userNick": "heneffer",
+      "timestamp": "2026-06-30T12:23:41.149Z"
+    },
+    {
+      "id": "log_k8ymn9lh4",
+      "action": "LOGIN",
+      "userId": "u_p2jgbe1zr",
+      "details": "Militar heneffer efetuou login no painel.",
+      "userNick": "heneffer",
+      "timestamp": "2026-06-30T12:23:30.578Z"
+    },
+    {
+      "id": "log_ufuokwsjd",
+      "action": "LOGOUT",
+      "userId": "u_p2jgbe1zr",
+      "details": "Militar heneffer se desconectou do painel.",
+      "userNick": "heneffer",
+      "timestamp": "2026-06-30T12:23:27.476Z"
+    },
+    {
+      "id": "log_urjvulsxk",
+      "action": "LOGOUT",
+      "userId": "u_miwgy7cwp",
+      "details": "Militar lDan se desconectou do painel.",
+      "userNick": "lDan",
+      "timestamp": "2026-06-30T12:21:26.746Z"
+    },
+    {
+      "id": "log_mw7ft2km0",
+      "action": "ALTERAR_CARGO_DIRETO",
+      "userId": "u_1",
+      "details": "Alterou o cargo de @lDan diretamente de Soldado para COMANDANTE_GERAL sem despacho.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-30T12:21:08.878Z"
+    },
+    {
+      "id": "log_38zekgv03",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Comandante-Geral  (COMANDANTE_GERAL).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T12:20:22.597Z"
+    },
+    {
+      "id": "log_ic6ajwrws",
+      "action": "ALTERAR_CARGO_DIRETO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou o cargo de @Fxrtinz diretamente de Soldado para MARECHAL sem despacho.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T12:19:38.051Z"
+    },
+    {
+      "id": "log_b56i5r7h0",
+      "action": "ALTERAR_CARGO_DIRETO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou o cargo de @Sr.Nicholas diretamente de Soldado para Administrador Supremo sem despacho.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T12:19:28.265Z"
+    },
+    {
+      "id": "log_0tzgle72v",
+      "action": "ALTERAR_CARGO_DIRETO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou o cargo de @boleto_ diretamente de Cabo para COMANDANTE sem despacho.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T12:19:11.687Z"
+    },
+    {
+      "id": "log_zi44d7v5c",
+      "action": "LOGIN",
+      "userId": "u_miwgy7cwp",
+      "details": "Militar lDan efetuou login no painel.",
+      "userNick": "lDan",
+      "timestamp": "2026-06-30T12:17:48.879Z"
+    },
+    {
+      "id": "log_7ommm166m",
+      "action": "APROVAR_ALISTAMENTO",
+      "userId": "u_1",
+      "details": "Aprovou pedido de alistamento de lDan como Soldado.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-30T12:17:43.062Z"
+    },
+    {
+      "id": "log_65s1hjsvb",
+      "action": "PEDIDO_ALISTAMENTO",
+      "userId": null,
+      "details": "Novo pedido de alistamento enviado por lDan.",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-30T12:17:34.427Z"
+    },
+    {
+      "id": "log_hw4ikoyab",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: SubComandante  (SUBCOMANDANTE).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T12:10:02.334Z"
+    },
+    {
+      "id": "log_15rbem9i1",
+      "action": "FIM_SERVICO",
+      "userId": "u_1",
+      "details": "Encerrou o turno militar. Duração: 1368 minutos.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-30T11:56:18.240Z"
+    },
+    {
+      "id": "log_cvs6f6ysd",
+      "action": "PROMOÇÃO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Promoveu boleto_ de Soldado para Cabo. Motivo: .",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T11:20:43.649Z"
+    },
+    {
+      "id": "log_h2y9d1vrf",
+      "action": "SINCRONIZAR_HABBO",
+      "userId": null,
+      "details": "Sincronizou perfil e farda de @heneffer no Habbo BR. Missão atual: \"Legados constroem impérios.\".",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-30T11:16:00.195Z"
+    },
+    {
+      "id": "log_rx04bkvns",
+      "action": "PROMOÇÃO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Promoveu heneffer de Soldado para Comandante-Geral. Motivo: Merecimento! ",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T11:04:51.902Z"
+    },
+    {
+      "id": "log_n8kkunaq3",
+      "action": "SINCRONIZAR_HABBO",
+      "userId": null,
+      "details": "Sincronizou perfil e farda de @boleto_ no Habbo BR. Missão atual: \"serakieusei?\".",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-30T11:02:51.770Z"
+    },
+    {
+      "id": "log_ex4dq7zsn",
+      "action": "LOGIN",
+      "userId": "u_eh9ivrvsd",
+      "details": "Militar SEALs, efetuou login no painel.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T11:02:39.469Z"
+    },
+    {
+      "id": "log_res9psho0",
+      "action": "LOGOUT",
+      "userId": "u_eh9ivrvsd",
+      "details": "Militar SEALs, se desconectou do painel.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T11:01:59.005Z"
+    },
+    {
+      "id": "log_o6hj2daq5",
+      "action": "RESTAURAR_SENHA",
+      "userId": "u_eh9ivrvsd",
+      "details": "Senha do militar Comandante_FMB alterada por SEALs,.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T11:01:52.336Z"
+    },
+    {
+      "id": "log_vg7ctxv5y",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Soldado (Soldado).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T10:34:43.887Z"
+    },
+    {
+      "id": "log_kmp9m44d1",
+      "action": "SINCRONIZAR_HABBO",
+      "userId": null,
+      "details": "Sincronizou perfil e farda de @SEALs, no Habbo BR. Missão atual: \"   POLÍCIA FMB ® 2026\".",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-30T10:34:17.427Z"
+    },
+    {
+      "id": "log_vokz4xxqm",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Comandante-Geral  (COMANDANTE_GERAL).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T10:32:15.847Z"
+    },
+    {
+      "id": "log_mmzs62bim",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Comandante  (COMANDANTE).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T10:31:50.380Z"
+    },
+    {
+      "id": "log_vgl250qmu",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Marechal  (MARECHAL).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T10:30:47.443Z"
+    },
+    {
+      "id": "log_bcz69j6qw",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: General  (GENERAL).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T10:30:29.375Z"
+    },
+    {
+      "id": "log_zll9z0i1v",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Major (MAJOR).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T10:29:50.258Z"
+    },
+    {
+      "id": "log_g4vw3vy8b",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Capitão  (CAPITAO).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T10:29:42.103Z"
+    },
+    {
+      "id": "log_9qd5p6k27",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Tenente  (TENENTE).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T10:29:26.863Z"
+    },
+    {
+      "id": "log_n1ea3ar3p",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Aspirante a Oficial  (ASPIRANTE_A_OFICIAL).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T10:29:15.824Z"
+    },
+    {
+      "id": "log_bu1rappz7",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Subtenente (SUBTENENTE).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T10:28:58.846Z"
+    },
+    {
+      "id": "log_v2apvvxhs",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Sargento (SARGENTO).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T10:28:46.527Z"
+    },
+    {
+      "id": "log_uyq0pyls4",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Cabo (CABO).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T10:28:21.383Z"
+    },
+    {
+      "id": "log_k4xp8tzce",
+      "action": "LOGIN",
+      "userId": "u_z3wx2tie8",
+      "details": "Militar Sr.Nicholas efetuou login no painel.",
+      "userNick": "Sr.Nicholas",
+      "timestamp": "2026-06-30T00:46:22.041Z"
+    },
+    {
+      "id": "log_mwvafgkmr",
+      "action": "APROVAR_ALISTAMENTO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Aprovou pedido de alistamento de Sr.Nicholas como Soldado.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T00:41:07.549Z"
+    },
+    {
+      "id": "log_ez8j00dg8",
+      "action": "PEDIDO_ALISTAMENTO",
+      "userId": null,
+      "details": "Novo pedido de alistamento enviado por Sr.Nicholas.",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-30T00:35:18.492Z"
+    },
+    {
+      "id": "log_fnf3ssmw6",
+      "action": "LOGIN",
+      "userId": "u_3sjbvevtu",
+      "details": "Militar Fxrtinz efetuou login no painel.",
+      "userNick": "Fxrtinz",
+      "timestamp": "2026-06-29T14:05:49.914Z"
+    },
+    {
+      "id": "log_hfebwc5ud",
+      "action": "APROVAR_ALISTAMENTO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Aprovou pedido de alistamento de Fxrtinz como Soldado.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-29T14:05:39.158Z"
+    },
+    {
+      "id": "log_fxstlkby5",
+      "action": "PEDIDO_ALISTAMENTO",
+      "userId": null,
+      "details": "Novo pedido de alistamento enviado por Fxrtinz.",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-29T14:05:14.096Z"
+    },
+    {
+      "id": "log_y9dyhov7x",
+      "action": "SINCRONIZAR_HABBO",
+      "userId": null,
+      "details": "Sincronizou perfil e farda de @heneffer no Habbo BR. Missão atual: \"O império nunca cairá, caro Luke.\".",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-29T13:56:57.262Z"
+    },
+    {
+      "id": "log_lj4tkutjx",
+      "action": "SINCRONIZAR_HABBO",
+      "userId": null,
+      "details": "Sincronizou perfil e farda de @boleto_ no Habbo BR. Missão atual: \"serakieusei?\".",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-29T13:50:31.448Z"
+    },
+    {
+      "id": "log_vevrcrhcc",
+      "action": "LOGIN",
+      "userId": "u_eh9ivrvsd",
+      "details": "Militar SEALs, efetuou login no painel.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-29T13:48:32.093Z"
+    },
+    {
+      "id": "log_cyi01f4fo",
+      "action": "LOGOUT",
+      "userId": "u_eh9ivrvsd",
+      "details": "Militar SEALs, se desconectou do painel.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-29T13:47:02.014Z"
+    },
+    {
+      "id": "log_5gjajrx4e",
+      "action": "LOGIN",
+      "userId": "u_53wkyvkax",
+      "details": "Militar boleto_ efetuou login no painel.",
+      "userNick": "boleto_",
+      "timestamp": "2026-06-29T13:46:13.404Z"
+    },
+    {
+      "id": "log_uy5xy756o",
+      "action": "APROVAR_ALISTAMENTO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Aprovou pedido de alistamento de boleto_ como Soldado.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-29T13:45:39.845Z"
+    },
+    {
+      "id": "log_8fdw6fe2l",
+      "action": "SINCRONIZAR_HABBO",
+      "userId": null,
+      "details": "Sincronizou perfil e farda de @heneffer no Habbo BR. Missão atual: \"O império nunca cairá, caro Luke.\".",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-29T13:44:58.748Z"
+    },
+    {
+      "id": "log_hs8hnjqqo",
+      "action": "LOGIN",
+      "userId": "u_p2jgbe1zr",
+      "details": "Militar heneffer efetuou login no painel.",
+      "userNick": "heneffer",
+      "timestamp": "2026-06-29T13:44:50.611Z"
+    },
+    {
+      "id": "log_s5cvw237g",
+      "action": "APROVAR_ALISTAMENTO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Aprovou pedido de alistamento de heneffer como Soldado.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-29T13:44:27.295Z"
+    },
+    {
+      "id": "log_6y2vidkv8",
+      "action": "PEDIDO_ALISTAMENTO",
+      "userId": null,
+      "details": "Novo pedido de alistamento enviado por boleto_.",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-29T13:44:13.296Z"
+    },
+    {
+      "id": "log_1qyv58la9",
+      "action": "PEDIDO_ALISTAMENTO",
+      "userId": null,
+      "details": "Novo pedido de alistamento enviado por heneffer.",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-29T13:43:56.909Z"
+    },
+    {
+      "id": "log_586gzg927",
+      "action": "INICIO_SERVICO",
+      "userId": "u_1",
+      "details": "Entrou em patrulha/serviço às 13:07:44.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-29T13:07:44.928Z"
+    },
+    {
+      "id": "log_dp6qlukvl",
+      "action": "FIM_SERVICO",
+      "userId": "u_1",
+      "details": "Encerrou o turno militar. Duração: 0 minutos.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-29T13:07:35.089Z"
+    },
+    {
+      "id": "log_iif0z19ax",
+      "action": "INICIO_SERVICO",
+      "userId": "u_1",
+      "details": "Entrou em patrulha/serviço às 13:07:31.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-29T13:07:31.292Z"
+    },
+    {
+      "id": "log_bipax0qoq",
+      "action": "LOGIN",
+      "userId": "u_eh9ivrvsd",
+      "details": "Militar SEALs, efetuou login no painel.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-29T12:59:13.038Z"
+    },
+    {
+      "id": "log_fk5ttal62",
+      "action": "LOGOUT",
+      "userId": "u_eh9ivrvsd",
+      "details": "Militar SEALs, se desconectou do painel.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-29T12:56:58.830Z"
+    },
+    {
+      "id": "log_zorvw7psz",
+      "action": "LOGIN",
+      "userId": "u_eh9ivrvsd",
+      "details": "Militar SEALs, efetuou login no painel.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-29T12:56:51.308Z"
+    },
+    {
+      "id": "log_l7r8dhz6n",
+      "action": "LOGIN",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB efetuou login no painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-29T12:56:17.362Z"
+    },
+    {
+      "id": "log_t9l8q2pgi",
+      "action": "LOGOUT",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB se desconectou do painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-29T12:53:55.249Z"
+    },
+    {
+      "id": "log_o3s829ux8",
+      "action": "LOGIN",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB efetuou login no painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-29T10:44:57.323Z"
+    },
+    {
+      "id": "log_init",
+      "action": "REINICIALIZAÇÃO",
+      "userId": null,
+      "details": "O banco de dados foi completamente purgado e reinstalado de acordo com as instruções diretivas.",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-29T10:33:39.690Z"
+    },
+    {
+      "id": "log_5vgfy5gsm",
+      "action": "LOGIN",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB efetuou login no painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-28T22:10:58.245Z"
+    },
+    {
+      "id": "log_0f6goxlzk",
+      "action": "PEDIDO_ALISTAMENTO",
+      "userId": null,
+      "details": "Novo pedido de alistamento enviado por SEALs,.",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-28T22:10:41.433Z"
+    },
+    {
+      "id": "log_w5tlzg5rb",
+      "action": "LOGOUT",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB se desconectou do painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-28T22:10:18.972Z"
+    },
+    {
+      "id": "log_pqprtdeub",
+      "action": "APAGAR_DOCUMENTO",
+      "userId": "u_1",
+      "details": "Removeu o documento: \"Script Oficial de Auxílio de Recrutas (CFS)\" do banco militar.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-28T22:17:13.907Z"
+    },
+    {
+      "id": "log_ksmhj46vq",
+      "action": "APAGAR_DOCUMENTO",
+      "userId": "u_1",
+      "details": "Removeu o documento: \"Manual de Instruções e Conduta da FMB\" do banco militar.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-28T22:17:11.681Z"
+    },
+    {
+      "id": "log_zjdb0ahqx",
+      "action": "LOGIN",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB efetuou login no painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-19T20:58:28.798Z"
+    },
+    {
+      "id": "log_9oek206sg",
+      "action": "LOGOUT",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB se desconectou do painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-19T20:58:17.148Z"
+    },
+    {
+      "id": "log_0bb9noa4k",
+      "action": "LOGIN",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB efetuou login no painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-19T20:57:31.093Z"
+    },
+    {
+      "id": "log_y1v8lhjjw",
+      "action": "LOGOUT",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB se desconectou do painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-19T20:57:22.806Z"
+    },
+    {
+      "id": "log_fez30loc4",
+      "action": "LOGIN",
+      "userId": "u_1",
+      "details": "Militar Comandante_FMB efetuou login no painel.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-19T20:53:42.879Z"
+    },
+    {
+      "id": "log_kn8r9xfgk",
+      "action": "SINCRONIZAR_HABBO",
+      "userId": null,
+      "details": "Sincronizou perfil e farda de @SEALs, no Habbo BR. Missão atual: \"   POLÍCIA FMB ® 2026\".",
+      "userNick": "SISTEMA",
+      "timestamp": "2026-06-28T22:12:19.197Z"
+    },
+    {
+      "id": "log_w5907a7li",
+      "action": "PROMOÇÃO",
+      "userId": "u_1",
+      "details": "Promoveu SEALs, de Soldado para Administrador Supremo. Motivo: merecedor",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-28T22:11:45.925Z"
+    },
+    {
+      "id": "log_e426eoju8",
+      "action": "APROVAR_ALISTAMENTO",
+      "userId": "u_1",
+      "details": "Aprovou pedido de alistamento de SEALs, como Soldado.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-28T22:11:03.846Z"
+    },
+    {
+      "id": "log_5pjmzcwzc",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Coronel  (CORONEL).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T10:30:12.225Z"
+    },
+    {
+      "id": "log_4x1tucr40",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: SubComandante (SUBCOMANDANTE).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T10:31:36.973Z"
+    },
+    {
+      "id": "log_ffmsku5hk",
+      "action": "ALTERAR_CARGO_DIRETO",
+      "userId": "u_1",
+      "details": "Alterou o cargo de @lDan diretamente de Soldado para COMANDANTE_GERAL sem despacho.",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-06-30T12:19:18.751Z"
+    },
+    {
+      "id": "log_6vhh267ts",
+      "action": "ALTERAR_CARGO_DIRETO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou o cargo de @Fxrtinz diretamente de Soldado para MARECHAL sem despacho.",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T12:19:18.154Z"
+    },
+    {
+      "id": "log_a5qkgt74m",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Sargento (SARGENTO).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T12:46:46.821Z"
+    },
+    {
+      "id": "log_i8ukuhk0o",
+      "action": "EDITAR_CARGO",
+      "userId": "u_eh9ivrvsd",
+      "details": "Alterou permissões e descrição do cargo: Cabo (CABO).",
+      "userNick": "SEALs,",
+      "timestamp": "2026-06-30T12:46:40.585Z"
+    },
+    {
+      "id": "log_cknv3ndm2",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T14:14:47.681Z"
+    },
+    {
+      "id": "log_ug8ugvmhl",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T14:14:44.877Z"
+    },
+    {
+      "id": "log_ncjt6r5wz",
+      "action": "EXCLUIR_TREINO",
+      "userId": "u_1",
+      "details": "Removeu o registro do treino \"CFO\".",
+      "userNick": "Comandante_FMB",
+      "timestamp": "2026-07-01T14:14:34.670Z"
+    }
+  ],
+  "news": [
+    {
+      "id": "8j7m0zv9e",
+      "title": "INAUGURAÇÃO FMB",
+      "content": "ESCREVA AQUI OS DETALHES QUE VOCÊ QUER QUE APAREÇA PARA OS VISITANTES DO SITE FMB.",
+      "imageUrl": "https://cdn.discordapp.com/attachments/1513959171924557987/1521881890817179688/image.png?ex=6a467275&is=6a4520f5&hm=c45ef19ef1498b8543547c33a510c20bcf89a0789624560e6350dd7137271d85&",
+      "createdAt": "2026-07-01T14:15:53.324Z",
+      "authorNick": "Comandante_FMB"
+    },
+    {
+      "id": "b02hxmb7e",
+      "title": "GRANDE DESFILE ",
+      "content": "teste jornal FMB",
+      "imageUrl": "https://media.discordapp.net/attachments/1513959171924557987/1521877190508154900/image.png?ex=6a466e15&is=6a451c95&hm=56f6bccd66ca7999c55b74fb25385f22a26c36a1da3a7f616083e1f02ab091ce&=&format=webp&quality=lossless",
+      "createdAt": "2026-07-01T13:56:51.879Z",
+      "authorNick": "Comandante_FMB"
+    }
+  ],
+  "users": [
+    {
+      "id": "u_1",
+      "role": "Administrador Supremo",
+      "medals": [
+        "servico_100h"
+      ],
+      "status": "Ativo",
+      "joinedAt": "2026-06-29T10:33:39.690Z",
+      "username": "comandante",
+      "habboNick": "Comandante_FMB",
+      "habboMotto": "Disciplina, Honra e Compromisso. FMB 🇧🇷",
+      "activeState": "Online",
+      "habboAvatar": "hr-115-31.hd-195-3.ch-210-62.lg-270-62.sh-300-62.ha-1002-62",
+      "habboCreated": "12-10-2015",
+      "instructorTag": "DAN",
+      "promotionsGiven": 0,
+      "trainingsCreated": 5,
+      "totalServiceSeconds": 427716
+    },
+    {
+      "id": "u_eh9ivrvsd",
+      "role": "Administrador Supremo",
+      "medals": [],
+      "status": "Ativo",
+      "joinedAt": "2026-06-28T22:11:03.845Z",
+      "username": "seals,",
+      "habboNick": "SEALs,",
+      "subCargos": [],
+      "habboMotto": "   POLÍCIA FMB ® 2026",
+      "activeState": "Online",
+      "habboAvatar": "hr-828-34.hd-209-2.ch-225-110.lg-285-64.sh-300-110.ha-1023-100.he-1605-110.ea-1404-110.fa-1206-1320.ca-3410-93",
+      "habboCreated": "Desconhecido",
+      "promotionsGiven": 2,
+      "trainingsCreated": 0,
+      "totalServiceSeconds": 0
+    },
+    {
+      "id": "u_p2jgbe1zr",
+      "role": "COMANDANTE_GERAL",
+      "medals": [],
+      "status": "Ativo",
+      "joinedAt": "2026-06-29T13:44:27.294Z",
+      "username": "heneffer",
+      "habboNick": "heneffer",
+      "habboMotto": "Legados constroem impérios.",
+      "activeState": "Online",
+      "habboAvatar": "hr-832-61.hd-600-28.ch-665-110.lg-720-1331.sh-735-110.ea-1404-110.mc-5800-110-110",
+      "habboCreated": "Desconhecido",
+      "promotionsGiven": 0,
+      "trainingsCreated": 0,
+      "totalServiceSeconds": 0
+    },
+    {
+      "id": "u_3sjbvevtu",
+      "role": "MARECHAL",
+      "medals": [],
+      "status": "Ativo",
+      "joinedAt": "2026-06-29T14:05:39.157Z",
+      "username": "fxrtinz",
+      "habboNick": "Fxrtinz",
+      "habboMotto": "Sem compromissos.",
+      "activeState": "Online",
+      "habboAvatar": "hr-834-45.hd-615-1370.ch-3293-110-110.lg-720-110.sh-3016-92.he-3218-92.ea-1404-110.ca-3085-92.wa-3263-92-92.cc-9563-110",
+      "habboCreated": "28/03/2020",
+      "promotionsGiven": 0,
+      "trainingsCreated": 0,
+      "totalServiceSeconds": 0
+    },
+    {
+      "id": "u_z3wx2tie8",
+      "role": "Administrador Supremo",
+      "medals": [],
+      "status": "Ativo",
+      "joinedAt": "2026-06-30T00:41:07.548Z",
+      "username": "sr.nicholas",
+      "habboNick": "Sr.Nicholas",
+      "habboMotto": "POLÍCIA FMB ® 2026",
+      "activeState": "Online",
+      "habboAvatar": "hr-5971-61.hd-3094-28.ch-804-110.lg-3023-110.sh-3027-110-110.ea-3484.fa-3344-110.ca-3410-93.cc-3280-110-1408",
+      "habboCreated": "18/04/2025",
+      "promotionsGiven": 0,
+      "trainingsCreated": 0,
+      "totalServiceSeconds": 0
+    },
+    {
+      "id": "u_miwgy7cwp",
+      "role": "CABO",
+      "medals": [],
+      "status": "Ativo",
+      "joinedAt": "2026-06-30T12:17:43.061Z",
+      "username": "ldan",
+      "habboNick": "lDan",
+      "subCargos": [
+        "INSTRUTOR"
+      ],
+      "habboMotto": "OLA",
+      "activeState": "Offline",
+      "habboAvatar": "hr-6397-34.hd-4174-1372.ch-6353.lg-3019-1425.sh-3035-110.fa-6398-92.wa-3074-110-1408",
+      "habboCreated": "15/02/2009",
+      "promotionsGiven": 0,
+      "trainingsCreated": 0,
+      "totalServiceSeconds": 0
+    },
+    {
+      "id": "u_879r792o4",
+      "role": "SUBCOMANDANTE",
+      "medals": [],
+      "status": "Ativo",
+      "joinedAt": "2026-06-30T15:38:57.007Z",
+      "username": "gustavomestre10",
+      "habboNick": "GustavoMestre10",
+      "habboMotto": "[FMB] Subcomandante [SeA] [L.R] ®",
+      "activeState": "Online",
+      "habboAvatar": "hr-3163-49.hd-3092-1392.ch-3215-92.lg-275-110.sh-3206-110.cc-3299-110-110",
+      "habboCreated": "16/12/2019",
+      "promotionsGiven": 0,
+      "trainingsCreated": 0,
+      "totalServiceSeconds": 0
+    },
+    {
+      "id": "u_ye880u032",
+      "role": "GENERAL",
+      "medals": [],
+      "status": "Ativo",
+      "joinedAt": "2026-06-30T15:38:58.318Z",
+      "username": "dpx_prado",
+      "habboNick": "Dpx_prado",
+      "habboMotto": "Sem compromissos.",
+      "activeState": "Online",
+      "habboAvatar": "hr-828-45.hd-205-1390.ch-5833-110-92.lg-285-64.sh-300-110.ea-1404-110.fa-4283-64.mc-5800-110-64",
+      "habboCreated": "14/01/2026",
+      "promotionsGiven": 0,
+      "trainingsCreated": 0,
+      "totalServiceSeconds": 0
+    },
+    {
+      "id": "u_egilvp82o",
+      "role": "MARECHAL",
+      "medals": [],
+      "status": "Ativo",
+      "joinedAt": "2026-07-01T12:41:32.739Z",
+      "username": "ruscello",
+      "habboNick": "Ruscello",
+      "habboMotto": "Sem compromissos.",
+      "activeState": "Online",
+      "habboAvatar": "hr-828-41.hd-190-1.ch-4286-63-1408.lg-285-64.sh-300-110.ha-3709.ea-1404-110.fa-5600-92.cc-3153-110-1408.mc-5800-110-110",
+      "habboCreated": "17/04/2014",
+      "promotionsGiven": 0,
+      "trainingsCreated": 0,
+      "totalServiceSeconds": 0
+    }
+  ],
+  "pontes": [
+    {
+      "id": "p_dyhagavt8",
+      "date": "2026-06-29",
+      "userId": "u_1",
+      "userNick": "Comandante_FMB",
+      "checkInTime": "2026-06-29T13:07:31.276Z",
+      "checkOutTime": "2026-06-29T13:07:35.089Z",
+      "durationSeconds": 3
+    },
+    {
+      "id": "p_vne4nm98a",
+      "date": "2026-06-29",
+      "userId": "u_1",
+      "userNick": "Comandante_FMB",
+      "checkInTime": "2026-06-29T13:07:44.894Z",
+      "checkOutTime": "2026-06-30T11:56:18.240Z",
+      "durationSeconds": 82113
+    }
+  ],
+  "missions": [],
+  "destaques": {
+    "militaryOfTheMonth": null,
+    "destaqueOperacional": null,
+    "instructorOfTheMonth": null
+  },
+  "documents": [
+    {
+      "id": "doc_2",
+      "title": "Script Oficial de Auxílio de Recrutas (CFS)",
+      "content": "# SCRIPT OFICIAL PARA CURSO DE FORMAÇÃO DE SOLDADOS (CFS)\n\n*Copie e cole estas instruções para repassar aos Recrutas na Sala de Instrução FMB:*\n\n1. \"Olá Recrutas! Sejam bem-vindos à Força Militar Brasileira (FMB).\" \n2. \"Eu sou o instrutor [Seu Nick] e guiarei vocês pelas táticas básicas de segurança.\" \n3. \"Regra de Ouro: Nunca revele sua senha a ninguém, nem mesmo ao Comandante.\" \n4. \"Comando de Sentido: Ao ouvir, fiquem parados, digitem 'Sim Senhor!' e fiquem em silêncio imediato.\"\n5. \"Comando de À Vontade: Podem relaxar e digitar à vontade, preservando o bom senso.\"\n6. \"A farda padrão é obrigatória no QG. Certifique-se de que está usando farda verde militar verde-oliva.\"",
+      "category": "roteiro",
+      "createdAt": "2026-06-09T18:10:00.000Z",
+      "authorNick": "Comandante_FMB",
+      "attachmentUrl": null
+    },
+    {
+      "id": "doc_1",
+      "title": "Manual de Instruções e Conduta da FMB",
+      "content": "# MANUAL DE INSTRUÇÃO E CONDUTA MILITAR\n\nEste documento regula o comportamento ideal de todos os militares da **Força Militar Brasileira (FMB)** no Habbo.\n\n## 1. Tratamento e Hierarquia\n- Todo militar de patente superior deve ser tratado por **Senhor** ou **Senhora**.\n- Ao entrar um superior no recinto, ordene **\"Sentido!\"** em voz alta.\n- Mantenha-se na posição até ordem em contrário.\n\n## 2. Postura em Sentry (Sentinela)\n- Proibido dançar, usar balões coloridos em falas ou usar visuais desalinhados com a farda oficial.\n- Mantenha o silêncio tático quando operando alavancas do portão.\n\n## 3. Código Penal Militar (CPM)\n- Desobediência direta: Sujeita à suspensão imediata.\n- Invasão de área restrita: Perda de patente.\n- Cumplicidade com transgressores: Banimento definitivo.",
+      "category": "manual",
+      "createdAt": "2026-06-09T18:00:00.000Z",
+      "authorNick": "Comandante_FMB",
+      "attachmentUrl": null
+    }
+  ],
+  "passwords": {
+    "u_1": "$2b$10$XE7PZY5BvgOnwDMdgZKb7.fayHLlsqqpO1T74o4ZF5MW5pUahFVIC",
+    "comandante": "$2b$10$XE7PZY5BvgOnwDMdgZKb7.fayHLlsqqpO1T74o4ZF5MW5pUahFVIC",
+    "u_3sjbvevtu": "$2b$10$YYRh0fwaO6xAoeU58WxbBeRhXcwDklE10.B3LSuOmD67xAr/ST6Au",
+    "u_7ymrylizb": "$2b$10$9RaubBUJ9h8SmA4/b9h7buy9fzMcTFKWsOiW2Njr71s4W8LD2sfBS",
+    "u_879r792o4": "$2b$10$1fwqO/4QGN4RH9UGeRSxI.mh6DGwsdRr3gNzI3YwaYfgVKXinGNBu",
+    "u_egilvp82o": "$2b$10$nCOtBW25gBr6WWF1mj5/X.2Ck/rpaVXbQinMjal3WueRykwep3ufO",
+    "u_eh9ivrvsd": "$2b$10$XlvM3aL9AZTq8n7WMxT5M.WQBvZ4Y8mA3uoCiOZ0C1Fz/9blXNjeK",
+    "u_miwgy7cwp": "$2b$10$KbTrCjVMADklJ/QucxbbU..0oReQDYOtkCnJHCBc/8MmRZhdhM07S",
+    "u_p2jgbe1zr": "$2b$10$jvv2WO5PuWiwGtQv6FiS0uQWlxTmHqn1w2w9gTXMouaKc7OciK4lm",
+    "u_ye880u032": "$2b$10$w5B75HKwIVpi2FCZkGEs7uj7hDAp/oAettsvaq/hrLJBtVceD.ey.",
+    "u_z3wx2tie8": "$2b$10$Y7yyvzOwjKEQAx3JcYN0OOgdxvgMaU/nMslnWlsA6qTERyZ37xoPK",
+    "Comandante_FMB": "$2b$10$XE7PZY5BvgOnwDMdgZKb7.fayHLlsqqpO1T74o4ZF5MW5pUahFVIC"
+  },
+  "subCargos": [
+    {
+      "id": "JORNALISTA",
+      "label": "Jornalista",
+      "minRank": "Subtenente",
+      "description": "teste",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": false,
+        "canEnlist": false,
+        "canPromote": false,
+        "canManageDocs": false,
+        "canAdminSystem": false,
+        "canEnterService": true,
+        "canViewOperacoes": false,
+        "canManageMissions": false,
+        "canViewBaterPonto": false,
+        "canViewInstrucoes": false,
+        "canViewPostarAulas": false,
+        "canManageCategories": false
+      }
+    },
+    {
+      "id": "INSTRUTOR",
+      "label": "instrutor",
+      "minRank": "Soldado",
+      "description": "...",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": false,
+        "canEnlist": false,
+        "canPromote": false,
+        "canManageDocs": false,
+        "canAdminSystem": false,
+        "canEnterService": true,
+        "canViewOperacoes": false,
+        "canManageMissions": false,
+        "canViewBaterPonto": false,
+        "canViewInstrucoes": false,
+        "canViewPostarAulas": false,
+        "canManageCategories": false
+      }
+    },
+    {
+      "id": "AMAN",
+      "label": "aman",
+      "minRank": "CAPITAO",
+      "description": "aMAN",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": false,
+        "canEnlist": false,
+        "canPromote": false,
+        "canManageDocs": false,
+        "canAdminSystem": false,
+        "canEnterService": true,
+        "canViewOperacoes": false,
+        "canManageMissions": false,
+        "canViewBaterPonto": false,
+        "canViewInstrucoes": false,
+        "canViewPostarAulas": false,
+        "canManageCategories": false
+      }
+    },
+    {
+      "id": "ESAO",
+      "label": "esao",
+      "minRank": "TENENTE",
+      "description": "esao",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": false,
+        "canEnlist": false,
+        "canPromote": false,
+        "canManageDocs": false,
+        "canAdminSystem": false,
+        "canEnterService": true,
+        "canViewOperacoes": false,
+        "canManageMissions": false,
+        "canViewBaterPonto": false,
+        "canViewInstrucoes": false,
+        "canViewPostarAulas": false,
+        "canManageCategories": false
+      }
+    }
+  ],
+  "trainings": [
+    {
+      "id": "t_u9541yrj1",
+      "date": "2026-07-03",
+      "name": "Curso de Formação de Cabos",
+      "time": "10:28",
+      "status": "Concluido",
+      "category": "CFC",
+      "description": "dad",
+      "instructorId": "u_1",
+      "participants": [
+        "lDan"
+      ],
+      "instructorName": "Comandante_FMB"
+    },
+    {
+      "id": "t_oyzrmh3cr",
+      "date": "2026-07-03",
+      "name": "Curso de Formação de Cabos",
+      "time": "12:24",
+      "status": "Concluido",
+      "category": "CFC",
+      "description": "sew",
+      "instructorId": "u_1",
+      "participants": [
+        "heneffer"
+      ],
+      "instructorName": "Comandante_FMB"
+    }
+  ],
+  "updatedAt": "2026-07-03T15:26:17.880Z",
+  "promotions": [
+    {
+      "id": "promo_l0e7rg4jq",
+      "date": "2026-06-28",
+      "time": "22:11:45",
+      "reason": "merecedor",
+      "newRank": "Administrador Supremo",
+      "oldRank": "Soldado",
+      "promoterId": "u_1",
+      "promoterName": "Comandante_FMB",
+      "promotedMilitarId": "u_eh9ivrvsd",
+      "promotedMilitarName": "SEALs,"
+    },
+    {
+      "id": "promo_eblte7ci6",
+      "date": "2026-06-30",
+      "time": "11:04:51",
+      "reason": "Merecimento! ",
+      "newRank": "Comandante-Geral",
+      "oldRank": "Soldado",
+      "promoterId": "u_eh9ivrvsd",
+      "promoterName": "SEALs,",
+      "promotedMilitarId": "u_p2jgbe1zr",
+      "promotedMilitarName": "heneffer"
+    },
+    {
+      "id": "promo_3k5rpmqnz",
+      "date": "2026-06-30",
+      "time": "11:20:43",
+      "reason": ".",
+      "newRank": "Cabo",
+      "oldRank": "Soldado",
+      "promoterId": "u_eh9ivrvsd",
+      "promoterName": "SEALs,",
+      "promotedMilitarId": "u_53wkyvkax",
+      "promotedMilitarName": "boleto_"
+    }
+  ],
+  "rankConfigs": [
+    {
+      "rank": "Soldado",
+      "label": "Soldado",
+      "description": "Militar de entrada sem funções ou permissões administrativas especiais.",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": false,
+        "canEnlist": false,
+        "canPromote": false,
+        "canManageDocs": false,
+        "canAdminSystem": false,
+        "canEnterService": false,
+        "canViewOperacoes": false,
+        "canManageMissions": false,
+        "canViewBaterPonto": false,
+        "canViewInstrucoes": false,
+        "canViewPostarAulas": false,
+        "canManageCategories": false
+      }
+    },
+    {
+      "rank": "Administrador Supremo",
+      "label": "Administrador Supremo",
+      "description": "Inaugurador e guardião-titular supremo de todos os bancos de dados, diretrizes da FMB, cargos e hierarquia.",
+      "permissions": {
+        "canWarn": true,
+        "canTrain": true,
+        "canEnlist": true,
+        "canPromote": true,
+        "canManageDocs": true,
+        "canAdminSystem": true,
+        "canEnterService": true,
+        "canViewOperacoes": true,
+        "canManageMissions": true,
+        "canViewBaterPonto": true,
+        "canViewInstrucoes": true,
+        "canViewPostarAulas": true,
+        "canManageCategories": true
+      }
+    },
+    {
+      "rank": "CABO",
+      "label": "Cabo",
+      "description": "",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": false,
+        "canEnlist": false,
+        "canPromote": false,
+        "canManageDocs": false,
+        "canAdminSystem": false,
+        "canEnterService": true,
+        "canViewOperacoes": false,
+        "canManageMissions": false,
+        "canViewBaterPonto": false,
+        "canViewInstrucoes": false,
+        "canViewPostarAulas": false,
+        "canManageCategories": false
+      }
+    },
+    {
+      "rank": "SARGENTO",
+      "label": "Sargento",
+      "description": "",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": false,
+        "canEnlist": false,
+        "canPromote": false,
+        "canManageDocs": false,
+        "canAdminSystem": false,
+        "canEnterService": true,
+        "canViewOperacoes": false,
+        "canManageMissions": false,
+        "canViewBaterPonto": false,
+        "canViewInstrucoes": false,
+        "canViewPostarAulas": false,
+        "canManageCategories": false
+      }
+    },
+    {
+      "rank": "SUBTENENTE",
+      "label": "Subtenente",
+      "description": "",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": false,
+        "canEnlist": false,
+        "canPromote": false,
+        "canManageDocs": false,
+        "canAdminSystem": false,
+        "canEnterService": true,
+        "canViewOperacoes": false,
+        "canManageMissions": false,
+        "canViewBaterPonto": false,
+        "canViewInstrucoes": false,
+        "canViewPostarAulas": false,
+        "canManageCategories": false
+      }
+    },
+    {
+      "rank": "ASPIRANTE_A_OFICIAL",
+      "label": "Aspirante a Oficial ",
+      "description": "",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": false,
+        "canEnlist": false,
+        "canPromote": false,
+        "canManageDocs": false,
+        "canAdminSystem": false,
+        "canEnterService": false,
+        "canViewOperacoes": false,
+        "canManageMissions": false,
+        "canViewBaterPonto": false,
+        "canViewInstrucoes": false,
+        "canViewPostarAulas": false,
+        "canManageCategories": false
+      }
+    },
+    {
+      "rank": "TENENTE",
+      "label": "Tenente ",
+      "description": "",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": false,
+        "canEnlist": false,
+        "canPromote": false,
+        "canManageDocs": false,
+        "canAdminSystem": false,
+        "canEnterService": true,
+        "canViewOperacoes": false,
+        "canManageMissions": false,
+        "canViewBaterPonto": false,
+        "canViewInstrucoes": false,
+        "canViewPostarAulas": false,
+        "canManageCategories": false
+      }
+    },
+    {
+      "rank": "CAPITAO",
+      "label": "Capitão ",
+      "description": "",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": false,
+        "canEnlist": false,
+        "canPromote": false,
+        "canManageDocs": false,
+        "canAdminSystem": false,
+        "canEnterService": true,
+        "canViewOperacoes": false,
+        "canManageMissions": false,
+        "canViewBaterPonto": false,
+        "canViewInstrucoes": false,
+        "canViewPostarAulas": false,
+        "canManageCategories": false
+      }
+    },
+    {
+      "rank": "MAJOR",
+      "label": "Major",
+      "description": "",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": false,
+        "canEnlist": false,
+        "canPromote": false,
+        "canManageDocs": false,
+        "canAdminSystem": false,
+        "canEnterService": true,
+        "canViewOperacoes": false,
+        "canManageMissions": false,
+        "canViewBaterPonto": false,
+        "canViewInstrucoes": false,
+        "canViewPostarAulas": false,
+        "canManageCategories": false
+      }
+    },
+    {
+      "rank": "GENERAL",
+      "label": "General ",
+      "description": "",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": false,
+        "canEnlist": false,
+        "canPromote": false,
+        "canManageDocs": false,
+        "canAdminSystem": false,
+        "canEnterService": true,
+        "canViewOperacoes": false,
+        "canManageMissions": false,
+        "canViewBaterPonto": false,
+        "canViewInstrucoes": false,
+        "canViewPostarAulas": false,
+        "canManageCategories": false
+      }
+    },
+    {
+      "rank": "MARECHAL",
+      "label": "Marechal ",
+      "description": "",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": false,
+        "canEnlist": false,
+        "canPromote": false,
+        "canManageDocs": false,
+        "canAdminSystem": false,
+        "canEnterService": true,
+        "canViewOperacoes": false,
+        "canManageMissions": false,
+        "canViewBaterPonto": false,
+        "canViewInstrucoes": false,
+        "canViewPostarAulas": false,
+        "canManageCategories": false
+      }
+    },
+    {
+      "rank": "COMANDANTE",
+      "label": "Comandante ",
+      "description": "",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": true,
+        "canEnlist": true,
+        "canPromote": true,
+        "canManageDocs": true,
+        "canAdminSystem": false,
+        "canEnterService": true,
+        "canViewOperacoes": true,
+        "canManageMissions": true,
+        "canViewBaterPonto": true,
+        "canViewInstrucoes": true,
+        "canViewPostarAulas": true,
+        "canManageCategories": false
+      }
+    },
+    {
+      "rank": "COMANDANTE_GERAL",
+      "label": "Comandante-Geral ",
+      "description": "",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": true,
+        "canEnlist": true,
+        "canPromote": true,
+        "canManageDocs": true,
+        "canAdminSystem": true,
+        "canEnterService": true,
+        "canViewOperacoes": true,
+        "canManageMissions": true,
+        "canViewBaterPonto": true,
+        "canViewInstrucoes": true,
+        "canViewPostarAulas": true,
+        "canManageCategories": false
+      }
+    },
+    {
+      "rank": "SUBCOMANDANTE",
+      "label": "SubComandante ",
+      "description": "",
+      "permissions": {
+        "canWarn": false,
+        "canTrain": true,
+        "canEnlist": true,
+        "canPromote": true,
+        "canManageDocs": true,
+        "canAdminSystem": true,
+        "canEnterService": true,
+        "canViewOperacoes": true,
+        "canManageMissions": true,
+        "canViewBaterPonto": true,
+        "canViewInstrucoes": true,
+        "canViewPostarAulas": true,
+        "canManageCategories": false
+      }
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_iprhus3uv",
+      "read": true,
+      "title": "Subcargo Militar Atribuído!",
+      "userId": "u_miwgy7cwp",
+      "message": "Você recebeu o subcargo militar \"instrutor\" por @Comandante_FMB.",
+      "createdAt": "2026-07-02T18:18:53.940Z"
+    }
+  ],
+  "amanCategories": [],
+  "esaoCategories": [],
+  "recruitLessons": [],
+  "missionProgress": [],
+  "customPermissions": {
+    "cdmViewAllowed": [],
+    "amanViewAllowed": [],
+    "instrutoresViewAllowed": []
+  },
+  "documentCategories": [
+    "Estatuto Oficial Militar (EOM)",
+    "Regulamento Disciplinar Militar (RDM)"
+  ],
+  "enlistmentRequests": [],
+  "trainingCategories": [
+    "[CFC] Curso de Formação de Cabos"
+  ],
+  "fmbCleanWipe2026_v4": true,
+  "amanCategoriesConfig": {},
+  "esaoCategoriesConfig": {},
+  "instructorCategories": [],
+  "permissionsCleanedV2": true,
+  "trainingCategoriesConfig": {
+    "[CFC] Curso de Formação de Cabos": {
+      "minRank": "SARGENTO"
+    }
+  },
+  "instructorCategoriesConfig": {},
+  "seededCategoriesAndDocsCleaned": true
+}
