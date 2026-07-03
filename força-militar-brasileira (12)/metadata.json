@@ -1,6 +1,0 @@
-{
-  "name": "Força Militar Brasileira",
-  "description": "Sistema web premium e central de comando tático para a Força Militar Brasileira (FMB) inspirado no Habbo BR.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
